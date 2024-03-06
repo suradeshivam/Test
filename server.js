@@ -5,4 +5,6 @@ const data = () => {
   somethint;
   ADDRCONFIGaoifja;
   here data will come ;
+  fiaifd 
+  aoirje i
 };
